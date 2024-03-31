@@ -13,7 +13,7 @@ int main() {
         scanf("%s", name);
 
        
-        printf("Enter marks for 6 subjects (Test 1, Test 2, Test 3):\n");
+        printf("Enter marks for 6 subjects :\n");
         for (int i = 0; i < 6; ++i) {
             printf("%s:\n", get_subject_name(i));
             for (int j = 0; j < 3; ++j) {
