@@ -1,4 +1,4 @@
-Program to creat grade card for 10 students in respective subjects
+Program to create grade card for 10 students in respective subjects
 
 grade_calculator.h is header file
 
