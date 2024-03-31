@@ -1,8 +1,8 @@
-Program to create grade card for 10 students in respective subjects
+Program to create grade card for 10 students in respective subjects for 3 tests
 
 grade_calculator.h is header file
 
-grade_calulator.c and main.c have the main code
+grade_calculator.c and main.c have the main code
 
 makefile.mk helps link and compile the program
 
